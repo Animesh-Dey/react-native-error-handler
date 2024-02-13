@@ -1,0 +1,1 @@
+React-native-error-handler
